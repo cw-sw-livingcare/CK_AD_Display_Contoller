@@ -16,7 +16,7 @@
 - Recipe 알고리즘 : 박준상, 이상아, 고가은
  
 ### S/W Release 정보
-- 버전 : v.0.1.37
+- 버전 : LCD_v.0.1.37
 - checkseum : 0x331A
 - SW imageFile 명: Twin_Cooker_v.0.1.3.7
 - UI 버전 : W/M목업 2차수정
